@@ -1,0 +1,64 @@
+EmployeeTest 
+
+testgetTasks() 	 Employee getTaskList
+
+testEmployeeToString() 	 Employee toString
+
+testGetID() 	 Employee getIDNumber
+
+testGetID() 	 Employee getIDNumber
+
+testGetName() 	 Employee getName
+
+testSetName() 	 Employee setName
+
+testConstructor() 	 Employee Employee
+
+testSetTasks() 	 Employee setTaskList
+
+
+
+
+AssistantRegionalManagerTest
+testAssistantRegionalManagerToString() 	 AssistantRegionalManager toString
+
+
+
+
+ReceptionistTest
+testReceptionistToString() 	 Receptionist toString
+
+
+
+
+SalesAssociateTest
+testSalesAssociateToString() 	 SalesAssociate toString
+
+
+
+
+RegionalManagerTest
+testRegionalManagerToString() 	 RegionalManager toString
+
+
+
+
+SorterTest
+sortTest() 	 Sorter sort
+
+
+
+
+TaskTest
+testTaskToString() 	 Task toString
+
+
+
+
+TheOfficeTest
+testTheOfficeToString() 	 TheOffice toString
+
+testLevelDisplay() 	 TheOffice levelDisplay
+
+testTheOfficeToStringFromFile() 	 TheOffice toString
+
